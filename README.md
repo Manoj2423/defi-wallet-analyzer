@@ -146,22 +146,4 @@ This system analyzes cryptocurrency wallet behavior and assigns risk scores from
 - Failure recovery
 - Detailed logging
 
-## 6. Limitations and Considerations
 
-- Limited to on-chain data
-- Point-in-time analysis
-- No historical trend analysis
-- Does not account for:
-  - Smart contract risks
-  - Network-specific risks
-  - Off-chain assets
-  - Trading behavior
-
-## 7. Future Improvements
-
-1. Historical data analysis
-2. Transaction pattern analysis
-3. Smart contract risk assessment
-4. Cross-chain activity correlation
-5. DeFi protocol interaction analysis
-6. Machine learning-based risk prediction
