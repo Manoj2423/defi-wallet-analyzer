@@ -1,0 +1,10 @@
+2025-07-27 10:05:19,356 - INFO - Loaded 103 unique wallet addresses
+2025-07-27 10:05:19,356 - INFO - Starting risk analysis process...
+2025-07-27 10:07:35,362 - INFO - 
+=== Analysis Complete ===
+2025-07-27 10:07:35,363 - INFO - Total wallets processed: 103
+2025-07-27 10:07:35,363 - INFO - Successfully scored: 103
+2025-07-27 10:07:35,364 - INFO - Failed to process: 0
+2025-07-27 10:07:35,364 - INFO - Success rate: 100.0%
+2025-07-27 10:07:35,364 - INFO - Total duration: 136.0 seconds
+2025-07-27 10:07:35,365 - INFO - Average time per wallet: 1.3 seconds
